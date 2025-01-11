@@ -58,6 +58,7 @@
 }
 .text-center {
     margin-top: 100px;
+    margin-bottom: 50px;
 }
 .text-center h2 {
     text-align: center;
@@ -77,4 +78,41 @@
 }
 .fas {
     color: #ffc800 !important;
+}
+.row {
+    margin-top: 50px;
+}
+.portfolio-caption-heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 10px;
+    text-align: center;
+}
+.portfolio-caption-subheading {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 10px;
+    text-align: center;
+}
+.team-member img {
+    width: 14rem;
+    height: 14rem;
+}
+.team {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.large {
+    margin-top: 20px;
+}
+.row {
+    margin-top: 50px;
+    display: flexbox;
+}
+.align-items-center {
+    margin-top: 50px;
+}
+.align-items-center img {
+    width: 150px;
 }
