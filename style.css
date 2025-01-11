@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+}
+.first-section {
+    background-image: url("./images/header-bg.jpg");
+    width: auto;
+    height: 750px;
+    background-size: cover;
+    background-position: center;
+}
+.logo img {
+    margin-top: -50px;
+    margin-left: 30px;
+}
+.heading {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+.heading h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.heading h2 {
+    font-family: Roboto slab , serif;
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+.heading a {
+    text-decoration: none;
+    color: white;
+    background-color: #ffc800;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    display: inline-block;
+}
+.btn-xl {
+    padding: 1rem 2rem;
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+.btn-primary {
+    background-color: #ffc800 !important;
+    border-width: 0px !important;
+    padding: 1.25rem 2.5rem !important;
+
+}
+.btn-primary:hover {
+    background-color: #d9aa00 !important;
+}
+.text-center {
+    margin-top: 100px;
+}
+.text-center h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2.5rem;
+    font-weight: 600;
+    
+}
+.text-center h3 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: Roboto slab , serif;
+    font-size: 1rem;
+    font-weight: 400;
+    font-style: italic;
+    color: #6c757d;
+}
+.fas {
+    color: #ffc800 !important;
+}
